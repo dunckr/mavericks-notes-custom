@@ -10,7 +10,7 @@ Customise the OSX Notes app
 
 E.g.:
 ```
-sudo ln -s /Users/scratch/notes-custom/Contents/Resources/* /Applications/Notes.app/Contents/Resources
+sudo mv -r /Users/scratch/notes-custom/Contents/Resources/* /Applications/Notes.app/Contents/Resources
 ```
 
 ## License
