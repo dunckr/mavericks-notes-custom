@@ -8,6 +8,11 @@ Customise the OSX Notes app
 
 + Copy *Contents* into ```/Applications/Notes.app/```
 
+E.g.:
+```
+sudo ln -s /Users/scratch/notes-custom/Contents/Resources/* /Applications/Notes.app/Contents/Resources
+```
+
 ## License
 
 MIT © [Duncan Beaton](http://dunckr.com)
