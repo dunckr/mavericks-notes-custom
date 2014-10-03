@@ -4,21 +4,45 @@
 <array>
 	<dict>
 		<key>FontName</key>
+		<string>Adelle</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Source Code Pro</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Open Sans</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Proxima Nova</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
 		<string>Helvetica</string>
 		<key>Size</key>
-		<integer>13</integer>
+		<integer>14</integer>
 	</dict>
 	<dict>
 		<key>FontName</key>
 		<string>Noteworthy-Light</string>
 		<key>Size</key>
-		<integer>13</integer>
+		<integer>14</integer>
 	</dict>
 	<dict>
 		<key>FontName</key>
 		<string>MarkerFelt-Thin</string>
 		<key>Size</key>
-		<integer>13</integer>
+		<integer>14</integer>
 	</dict>
 </array>
 </plist>
