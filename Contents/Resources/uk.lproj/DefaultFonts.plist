@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FontName</key>
+		<string>Adelle</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Source Code Pro</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Open Sans</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Proxima Nova</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Helvetica</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>Noteworthy-Light</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+	<dict>
+		<key>FontName</key>
+		<string>MarkerFelt-Thin</string>
+		<key>Size</key>
+		<integer>14</integer>
+	</dict>
+</array>
+</plist>
