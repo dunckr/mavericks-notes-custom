@@ -1,6 +1,6 @@
 # Notes Custom
 
-Customise the OSX Notes app
+Customise the Mavericks OSX Notes app
 
 ![Notes](http://dunckr.com/imgs/notes.png)
 
